@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "HW Catalog",
+  "name": "Hot Wheels Catalog",
   "icons": [
     {
       "src": "favicon.ico",
@@ -8,8 +8,11 @@
       "type": "image/x-icon"
     }
   ],
-  "start_url": ".",
+  "start_url": "/index.html",
   "display": "standalone",
   "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "background_color": "#ffffff",
+  "description": "Catalog your Hot Wheels, so you dont keep buying dupes!!!",
+  "lang": "en-US",
+  "orientation": "portrait-primary"
 }
